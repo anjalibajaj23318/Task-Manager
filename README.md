@@ -128,11 +128,9 @@ I have added serach filter at the top of the page, it is searching but snce loca
 
 Thanks to Autohost for giving me this opportunity so that I can learn Next.js where i implemented my knowledge which I learned throughout my experience.
 
-I learned how to implement Server side rendering and local storage as well as debugging the errors as they came into my way.
+During my time working with Next.js, I've learned how to implement server-side rendering, local storage, and debug errors that have come up. I've also learned how to write code and start projects in Next.js, calling them from the root folder (pages/index.js).
 
-I learnt how to start and write codes in Next.js and how they are called from root folder (pages/index.js).
-
-I have faced few issues which I have mentioned and were not able to debug them correctly due to some knowledge gaps with Next.js and would love to learn them as I gain more experience with it.
+I have faced few issues which I have mentioned above and were not able to debug them correctly due to some knowledge gaps with Next.js and would love to exploremore as I gain more experience with it.
 
 ```
 
@@ -140,7 +138,7 @@ I have faced few issues which I have mentioned and were not able to debug them c
 
 ```
 
-1. Documentation
+1. Documentation (Next.js)
 2. Youtube
 3. Medium and other websites to understand the functionalities of Next.js
 4. Material-ui documentation.
