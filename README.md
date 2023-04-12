@@ -148,10 +148,12 @@ I have faced few issues which I have mentioned and were not able to debug them c
 ## Screenshots:
 
 ```
-![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot1.png)
-![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot2.png)
-![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot3.png)
-![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot4.png)
+<img width="922" alt="Screenshot1" src="https://user-images.githubusercontent.com/34480619/231599856-eb7bc3a0-d945-4a4c-a50e-48b9295590d2.png">
+<img width="1156" alt="Screenshot2" src="https://user-images.githubusercontent.com/34480619/231599866-10e4b1bd-460f-4b25-b44b-4a6c23588b02.png">
+<img width="1078" alt="Screenshot3" src="https://user-images.githubusercontent.com/34480619/231599869-037d382b-59df-4c81-b345-5c148b700987.png">
+<img width="1081" alt="Screenshot4" src="https://user-images.githubusercontent.com/34480619/231599878-f564a63a-f527-4e8c-9bf4-201dfc5828ae.png">
+
+
 
 ```
 
