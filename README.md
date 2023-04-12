@@ -28,9 +28,9 @@ This app has the following features:
 Prerequisite:
 
 ```
-cd (location where the folder is)
-git clone "https:"
-cd (the github repository project)
+cd Desktop
+git clone "https://github.com/anjalibajaj23318/Task-Manager.git"
+cd Task-Manager
 npm install (to install the packages)
 npm run dev (since, this is the development server)
 ```
@@ -40,7 +40,7 @@ npm run dev (since, this is the development server)
 ```
 npx create-next-app@latest
 
-This will ask for few commands which will ask you to download some features
+This will ask for few commands which will ask you to download some features:(As per new Next.js Update)
 1. What is your project named? task-manager
 2. Would you like to use TypeScript with this project? No
 3. Would you like to use ESLint with this project? › No 
@@ -52,6 +52,9 @@ Since, I built a basic next.js application.
 
 
 2. I installed material-ui as mentioned in the email for the task.
+npm install @mui/material
+npm install @mui/icons-material
+
 
 ```
 
@@ -141,6 +144,14 @@ I have faced few issues which I have mentioned and were not able to debug them c
 2. Youtube
 3. Medium and other websites to understand the functionalities of Next.js
 4. Material-ui documentation.
+```
+
+## Future Consideration:
+
+```
+1. I will try to work on localStorage and also understanding the IndexedDB for which I have not worked on it.
+2. I will also get more information on Server side rendering
+3. I will also try to use Todoist API as I wanted to see how it will work.
 ```
 
 
