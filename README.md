@@ -145,6 +145,15 @@ I have faced few issues which I have mentioned and were not able to debug them c
 3. Medium and other websites to understand the functionalities of Next.js
 4. Material-ui documentation.
 ```
+## Screenshots:
+
+```
+![Screenshot](sScreenshot 2023-04-12 at 4.10.07 PM.png)
+![Screenshot](Screenshot 2023-04-12 at 4.10.42 PM.png)
+![Screenshot](Screenshot 2023-04-12 at 4.10.59 PM.png)
+![Screenshot](Screenshot 2023-04-12 at 4.11.10 PM.png)
+
+```
 
 ## Future Consideration:
 
