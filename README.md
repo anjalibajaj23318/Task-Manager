@@ -148,10 +148,10 @@ I have faced few issues which I have mentioned and were not able to debug them c
 ## Screenshots:
 
 ```
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
-![Screenshot](Screenshot3.png)
-![Screenshot](Screenshot4.png)
+![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot1.png)
+![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot2.png)
+![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot3.png)
+![Screenshot](https://github.com/anjalibajaj23318/Task-Manager/blob/main/Screenshot4.png)
 
 ```
 
