@@ -148,10 +148,10 @@ I have faced few issues which I have mentioned and were not able to debug them c
 ## Screenshots:
 
 ```
-![Screenshot](Screenshot1)
-![Screenshot](Screenshot2)
-![Screenshot](Screenshot3)
-![Screenshot](Screenshot4)
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot3.png)
+![Screenshot](Screenshot4.png)
 
 ```
 
