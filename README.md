@@ -82,7 +82,7 @@ It is a reusable component where each task is dispalyed in card with different i
 
 ```
 
-## I have tried to achieve teh basic functionality as mentione din the email with some styling using the material ui.
+## I have tried to achieve the basic functionality as mentioned in the email with some styling using the material ui.
 
 ## For Bonus Part
 
@@ -99,11 +99,11 @@ I want to pre-populate the data when the user visits the page. Since, I didnot c
 2. Implement persistent storage for tasks using localStorage, IndexedDB, or an external API, so that tasks are not lost when the page is refreshed.
 
 ```
-This is partially working as I am able to store the value of the value provided from SSR but others are not being saved. I was not able to reproduce the error or had difficulty in understanding why it is giving me an error. I also tried to use an API that todoist which happens to have information related to task but was not able to follow it correct in the next.js as I am not aware of the proper functioning.
+This is partially working as I am able to store the value provided from SSR but others are not being saved. I was not able to reproduce the error or had difficulty in understanding why it is giving me an error. I also tried to use an API that todoist which happens to have information related to task but was not able to follow it correct in the next.js as I am not aware of the proper functioning.
 
 I tried to use normal localstorage and called it in useeffect to determine its value for to get load data.
 
-Also, I have never used Indexed db hence, I tried to use lOcalStorage which I have seen while working in different applications.
+Also, I have never used Indexed db hence, I tried to use localStorage which I have seen while working in different applications.
 
 ```
 
@@ -119,7 +119,7 @@ I have added basic validation in textfield for both title and description. It is
 
 ```
 
-I have added serach filter at the top of the page, it is searching but snce local storage is not working correctly as there is an issue with my toLowerCase() function hence we have to deal with Cases manually and I tried all the thigns but for some reason description is always throwing an error. As well as, Since localStorage is not working properly hence it is only giving the data being passed at the time of server-side rendering.
+I have added search filter at the top of the page, it is searching but since local storage is not working correctly as there is an issue with my toLowerCase() function hence we have to deal with Cases manually and I tried all the things but for some reason description is always throwing an error. As well as, Since localStorage is not working properly hence it is only giving the data being passed at the time of server-side rendering.
 ```
 
 ## My learning throughout the project
@@ -130,11 +130,11 @@ Thanks to Autohost for giving me this opportunity so that I can learn Next.js wh
 
 During my time working with Next.js, I've learned how to implement server-side rendering, local storage, and debug errors that have come up. I've also learned how to write code and start projects in Next.js, calling them from the root folder (pages/index.js).
 
-I have faced few issues which I have mentioned above and were not able to debug them correctly due to some knowledge gaps with Next.js and would love to exploremore as I gain more experience with it.
+I have faced few issues which I have mentioned above and were not able to debug them correctly due to some knowledge gaps with Next.js and would love to explore more as I gain more experience with it.
 
 ```
 
-## Resources I have used during this project:
+## Resources I have used during this Technical assessment:
 
 ```
 
